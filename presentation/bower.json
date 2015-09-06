@@ -1,0 +1,23 @@
+{
+  "name": "geonode_pres",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nathanhilbert/notebooktest",
+  "authors": [
+    "nathanhilbert <nathanhilbert@gmail.com>"
+  ],
+  "description": "Geonode presentation reqs",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.1.0"
+  }
+}
