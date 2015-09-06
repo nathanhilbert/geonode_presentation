@@ -1,6 +1,3 @@
 [submodule "lib/bigbang"]
 	path = lib/bigbang
 	url = git@github.com:sbenthall/bigbang.git
-[submodule "inputdata/geonode"]
-	path = inputdata/geonode
-	url = git@github.com:GeoNode/geonode.git
